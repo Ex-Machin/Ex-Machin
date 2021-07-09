@@ -1,8 +1,9 @@
 JS Developer
 
-- css/html
+- html / pug
 - gulp
-- webpack
-- css/less
-- bootstrap/jquery
+- webpack / babel
+- css / less / sass
+- bootstrap / jquery
+- js
 - react
