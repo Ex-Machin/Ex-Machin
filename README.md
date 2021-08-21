@@ -7,5 +7,6 @@ JS Developer
 - bootstrap / jquery
 - js
 - react
+- styled components
 
 https://www.codewars.com/users/Ex-Machin
