@@ -7,6 +7,6 @@ JS Developer
 - bootstrap / jquery
 - js
 - react
-- styled components
+- styled components / framer-motion
 
 https://www.codewars.com/users/Ex-Machin
