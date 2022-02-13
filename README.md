@@ -7,6 +7,6 @@ JS Developer
 - bootstrap / jquery
 - js
 - react /redux toolkit
-- styled components / framer-motion
+- styled components
 
 https://www.codewars.com/users/Ex-Machin
