@@ -1,12 +1,3 @@
-JS Developer
-
-- html / pug
-- gulp
-- webpack / babel
-- css / less / sass
-- bootstrap / jquery
-- js
-- react /redux toolkit
-- styled components
+Front-End Developer
 
 https://www.codewars.com/users/Ex-Machin
