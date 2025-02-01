@@ -1,7 +1,7 @@
 ### Hello World
 I am a fullstack software engineer from Poland 
 
--  Working on multiple frontend and backend project using React and Nodejs
+-  Working on multiple frontend and backend project using React, Angular and Django, Flask, Nodejs
 -  Learning design patterns in depth
 
 ## Connect with me
